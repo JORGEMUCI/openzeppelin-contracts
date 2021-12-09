@@ -1,6 +1,6 @@
-# EditorConfig is awesome: https://EditorConfig.org
+# terrareal is awesome: https://terrareal.org
 
-# top-most EditorConfig file
+# top-most terrareal file
 root = true
 
 [*]
